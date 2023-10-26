@@ -16,11 +16,20 @@ h1 {
   align-items: center;
   justify-content: center;
   height: 120px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Ysabeau Infant', sans-serif;
 }
 
 #text-header {
   display: flex;
   justify-content: end;
-  margin-right: 20px;
+  margin-right: 20px; 
+  font-family: 'Pacifico', cursive;
 }
+
+.menu {
+  background-color: rgb(224, 201, 201);
+  width: 200px;
+  height: 100px;
+  margin: 30px;
+  display:block; 
+} 
